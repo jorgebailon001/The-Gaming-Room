@@ -1,8 +1,8 @@
 The Gaming Room Client and Software Requirements
 
-The Client:** The Gaming Room company aimed to broaden the accessibility of their game, "Draw It or Lose It," beyond its original Android platform to include MacOS, Linux, and Windows operating systems. This expansion sought to increase the game's market share by making it available to a wider audience across various platforms.
+The Client: The Gaming Room company aimed to broaden the accessibility of their game, "Draw It or Lose It," beyond its original Android platform to include MacOS, Linux, and Windows operating systems. This expansion sought to increase the game's market share by making it available to a wider audience across various platforms.
 
-Software Requirements:** They required a cross-platform solution that would maintain the engaging and competitive aspects of the original game while ensuring it supports multiple rounds of gameplay and retains the time-limited nature of the drawing and guessing elements. Additionally, the software needed to be scalable to support thousands of concurrent players, adaptable to various screen sizes and resolutions, and capable of seamless backend integration for managing game sessions and user interactions across different platforms.
+Software Requirements: They required a cross-platform solution that would maintain the engaging and competitive aspects of the original game while ensuring it supports multiple rounds of gameplay and retains the time-limited nature of the drawing and guessing elements. Additionally, the software needed to be scalable to support thousands of concurrent players, adaptable to various screen sizes and resolutions, and capable of seamless backend integration for managing game sessions and user interactions across different platforms.
 
 Strengths in Documentation Development
 
